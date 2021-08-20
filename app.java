@@ -13,3 +13,9 @@ public class App
 		return 0;
 	}
 }
+working with the new sprint 8.5
+
+[B[B
+returnType methodName() {
+  // method body
+}
