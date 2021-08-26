@@ -21,5 +21,9 @@ returnType methodName() {
 }appending the new changes
 modifier static returnType nameOfMethod (parameter1, parameter2, ...) {
   // method body
+  public static void main (String[] args){
+    DemoClass.sampleMethod(4,2);     
+ }
+
 }
-//second changes
+
